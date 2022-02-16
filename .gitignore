@@ -3,3 +3,4 @@ package.json
 .stylelintrc.json
 node_modules
 .hintrc
+test.md
